@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Save COCO</string>
+    <string name="SaveCOCO">Save COCO</string>
+    <string name="Score">Score : 0</string>
+    <string name="HighestScore">Highest Score : 0</string>
+    <string name="Start">Start</string>
+</resources>
